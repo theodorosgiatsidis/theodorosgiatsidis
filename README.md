@@ -1,7 +1,7 @@
 ### Hi there I am Theodore 👋
 
 [![](https://img.shields.io/badge/-@theodorosgiatsidis-%23181717?style=flat-square&logo=github)](https://github.com/theodorosgiatsidis)
-[![](https://img.shields.io/badge/-Theodoros%20Giatsidis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thodoros-giatsidis/)](https://www.linkedin.com/in/theodorosgiatsidis/)
+[![](https://img.shields.io/badge/-Theodoros%20Giatsidis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thodoros-giatsidis-027b10236/)](https://www.linkedin.com/in/theodorosgiatsidis/)
 ![](https://komarev.com/ghpvc/?username=theodorosgiatsidis)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theodorosgiatsidis&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
