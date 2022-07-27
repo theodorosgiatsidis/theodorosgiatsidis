@@ -13,4 +13,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodorosgiatsidis&theme=dark" />
 </a>
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=theodorosgiatsidis&count_private=true&show_icons=true&theme=dark" />
+</a>
 
