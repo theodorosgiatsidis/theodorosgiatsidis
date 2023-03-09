@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodorosgiatsidis" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodorosgiatsidis&theme=dark" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tgiatsidis&theme=dark)](https://git.io/streak-stats)
