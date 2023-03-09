@@ -14,5 +14,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodorosgiatsidis" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tgiatsidis)](https://git.io/streak-stats)
+
 
 
