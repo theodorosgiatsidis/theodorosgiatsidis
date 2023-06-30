@@ -1,6 +1,6 @@
 ### Hi there I am Theodore 👋
 
-* :office: Javascript Engineer at [BetAdvanced](https://www.github.com/betadvanced)
+* :office: Frontend Developer at [BetAdvanced](https://www.github.com/betadvanced)
 * :mortar_board: BSc [Computer Science](http://inf.teiste.gr/), [University of Thessaly](https://www.uth.gr/en), Lamia (Greece 🇬🇷)
 
 [![](https://img.shields.io/badge/-@theodorosgiatsidis-%23181717?style=flat-square&logo=github)](https://github.com/theodorosgiatsidis)
