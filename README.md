@@ -7,9 +7,6 @@
 [![](https://img.shields.io/badge/-Theodoros%20Giatsidis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theodorosgiatsidis/)](https://www.linkedin.com/in/theodorosgiatsidis/)
 ![](https://komarev.com/ghpvc/?username=theodorosgiatsidis)
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theodorosgiatsidis&count_private=true&show_icons=true&theme=dark" />
-</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=theodorosgiatsidis&theme=dark)](https://git.io/streak-stats)
 
