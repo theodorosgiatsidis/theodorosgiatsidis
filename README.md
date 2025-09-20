@@ -1,6 +1,6 @@
 ### Hi there I am Theodore 👋
 
-* :office: Full Stack Developer at [Choosed]
+* :office: Frontend Developer at [Choosed]
 * :mortar_board: BSc [Computer Science](http://inf.teiste.gr/), [University of Thessaly](https://www.uth.gr/en), Lamia (Greece 🇬🇷)
 
 [![](https://img.shields.io/badge/-@theodorosgiatsidis-%23181717?style=flat-square&logo=github)](https://github.com/theodorosgiatsidis)
